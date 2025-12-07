@@ -1,5 +1,4 @@
 # home-assistant-mqtt-assignment
-# Home Assistant MQTT Assignment
 
 This repository contains a simple example of using MQTT with Home Assistant.  
 It includes a Python script to publish MQTT messages and a Home Assistant configuration file.
